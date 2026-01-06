@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying at cdac<br>👯 I’m looking for data analytics job<br>🤝 I’m looking for help with job<br>🌱 I’m currently learning big data analytics<br>
 
 
 ## 🌐 Socials:
@@ -16,20 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=SANJYOT-CHAVAN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SANJYOT-CHAVAN&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**SANJYOT-CHAVAN/SANJYOT-CHAVAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=SANJYOT-CHAVAN&icon=0&color=0)](https://visitcount.itsvg.in
